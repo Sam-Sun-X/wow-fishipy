@@ -1,0 +1,8 @@
+pyscreenshot
+cv2
+numpy
+autopy
+matplotlib
+pyaudio
+psutil
+
